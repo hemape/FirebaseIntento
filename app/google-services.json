@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64141992539",
+    "firebase_url": "https://especiedewallapop.firebaseio.com",
+    "project_id": "especiedewallapop",
+    "storage_bucket": "especiedewallapop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64141992539:android:6febc7520130c47c",
+        "android_client_info": {
+          "package_name": "com.example.hector.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64141992539-3r9b92kctqle78l3hmvr2feevmls0n13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hector.firebase",
+            "certificate_hash": "45160c6c934dd30716b011c4892853125ee75794"
+          }
+        },
+        {
+          "client_id": "64141992539-nn2nhgj1navpeinn96la6d2l50n1ksdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8EoUQdwwazBltEDRIzTfvxHkpbASulAI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64141992539-nn2nhgj1navpeinn96la6d2l50n1ksdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

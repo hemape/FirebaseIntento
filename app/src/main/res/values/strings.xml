@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Firebase</string>
+
+    <!-- Nodos Firebase -->
+    <string name="nodo_usuarios">usuarios</string>
+
+    <!-- Nodos Campos -->
+    <string name="nodo_nombre">nombre</string>
+    <string name="nodo_apellidos">apellidos</string>
+    <string name="nodo_direccion">direccion</string>
+    <string name="nodo_correo">correo</string>
+    <string name="campo_usuario">usuario</string>
+
+
+</resources>
